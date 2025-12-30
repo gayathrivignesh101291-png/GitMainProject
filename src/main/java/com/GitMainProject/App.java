@@ -9,5 +9,7 @@ public class App {
         System.out.println("100 %");
         
         System.out.println("gadfhfgj");
+        
+        System.out.println(" hi all");
     }
 }
