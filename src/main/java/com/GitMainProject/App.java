@@ -1,8 +1,5 @@
 package com.GitMainProject;
 
-/**
- * Hello world!
- */
 public class App {
 
     add();
